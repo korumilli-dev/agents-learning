@@ -1,0 +1,8 @@
+New web applications should use a React frontend and a Python FastAPI
+backend unless there is a documented reason to use another technology.
+
+Production applications should use PostgreSQL for transactional workloads.
+
+Cloud workloads should use managed services where practical.
+
+All production APIs must be deployed behind an API gateway.

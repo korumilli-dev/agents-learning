@@ -1,0 +1,9 @@
+All production code must have automated unit tests.
+
+Pull requests require code review before merging.
+
+Python projects should use type hints where practical.
+
+Sensitive information must not be written to application logs.
+
+Developers should follow the company's standard Git branching strategy.

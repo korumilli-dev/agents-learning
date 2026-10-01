@@ -1,0 +1,17 @@
+{
+  "C1001": {
+    "name": "Acme Corporation",
+    "industry": "Manufacturing"
+  },
+  "C1002": {
+    "name": "Global Industries",
+    "industry": "Technology"
+  },
+  "C1003": {
+    "name": "Small Business Ltd",
+    "industry": "Retail",
+    "account_manager": "John Smith",
+    "customer_since": "2022",
+    "contract_status": "Active"
+  }
+}
